@@ -1,6 +1,6 @@
 # Buildware
 
-Buildware helps you ship code faster with AI.
+Buildware helps you ship code faster with AI..
 
 Build a code instruction system, give it an issue, and get an AI-generated PR!
 
