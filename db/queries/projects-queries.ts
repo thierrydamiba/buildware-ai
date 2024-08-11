@@ -1,5 +1,5 @@
 "use server"
-
+import { issuesTable } from "../schema/issues-schema"
 import { getUserId } from "@/actions/auth/auth"
 import { and, desc, eq } from "drizzle-orm"
 import { revalidatePath } from "next/cache"
